@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 import warnings
 warnings.filterwarnings('ignore')
 
-# --- 1. Carga de Datos ---
+# 1. Carga de Datos 
 print("\n Cargando datos: ")
 try:
     df = pd.read_csv('salaries.csv')
