@@ -1,6 +1,6 @@
-# 📊 Análisis de Salarios en el Sector de Inteligencia Artificial
+#  Análisis de Salarios en el Sector de Inteligencia Artificial
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto aplica la metodología **KDD (Knowledge Discovery in Databases)** para analizar un conjunto de datos de salarios de profesionales del sector de Inteligencia Artificial, Machine Learning y Ciencia de Datos a nivel mundial.
 
@@ -8,7 +8,7 @@ El objetivo principal es identificar patrones, factores influyentes en la remune
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### Objetivo General
 Aplicar la metodología KDD para analizar un conjunto de datos de salarios del sector de IA, identificando patrones y desarrollando modelos predictivos.
@@ -24,7 +24,7 @@ Aplicar la metodología KDD para analizar un conjunto de datos de salarios del s
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 | Herramienta | Propósito |
 |-------------|-----------|
@@ -46,7 +46,7 @@ Aplicar la metodología KDD para analizar un conjunto de datos de salarios del s
 
 ---
 
-## 📁 Estructura del Proyecto\
+## 📁 Estructura del Proyecto
 proyecto-kdd-salarios-ia/\
 │
 ├── 📄 README.md # Documentación principal\
@@ -75,9 +75,9 @@ proyecto-kdd-salarios-ia/\
 │
 └── 📁 docs/\
 └── informe_actividad_formativa.docx\
-\
 
-## 📊 Metodología KDD Aplicada
+
+##  Metodología KDD Aplicada
 
 ### Fase 1: Selección de Datos
 - Dataset: `salaries.csv`
@@ -105,7 +105,7 @@ proyecto-kdd-salarios-ia/\
 
 ---
 
-## 📈 Resultados Principales
+##  Resultados Principales
 
 ### Modelos Predictivos
 
