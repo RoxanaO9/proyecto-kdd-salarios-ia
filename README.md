@@ -49,32 +49,32 @@ Aplicar la metodología KDD para analizar un conjunto de datos de salarios del s
 ## 📁 Estructura del Proyecto
 proyecto-kdd-salarios-ia/
 │
-├── 📄 README.md # Documentación principal
-├── 📄 requirements.txt # Dependencias del proyecto
+├── 📄 README.md # Documentación principal\
+├── 📄 requirements.txt # Dependencias del proyecto\
 │
 ├── 📁 notebooks/
-│ └── proyecto_kdd_salarios.ipynb # Notebook principal
+│ └── proyecto_kdd_salarios.ipynb # Notebook principal\
 │
 ├── 📁 data/
-│ └── salaries.csv # Dataset utilizado
+│ └── salaries.csv # Dataset utilizado\
 │
 ├── 📁 scripts/
-│ ├── 01_preprocesamiento.py # Limpieza y transformación
-│ ├── 02_analisis_exploratorio.py # EDA y visualizaciones
-│ ├── 03_modelos_predictivos.py # Modelos de regresión
-│ └── 04_clustering.py # K-Means y PCA
+│ ├── 01_preprocesamiento.py # Limpieza y transformación\
+│ ├── 02_analisis_exploratorio.py # EDA y visualizaciones\
+│ ├── 03_modelos_predictivos.py # Modelos de regresión\
+│ └── 04_clustering.py # K-Means y PCA\
 │
 ├── 📁 results/
 │ ├── 📁 images/
-│ │ ├── correlacion.png
-│ │ ├── analisis_salarios_completo.png
-│ │ ├── metodo_codo_mejorado.png
-│ │ └── clustering_mejorado.png
-│ ├── resultados_modelos.csv
-│ └── cluster_analysis.csv
+│ │ ├── correlacion.png\
+│ │ ├── analisis_salarios_completo.png\
+│ │ ├── metodo_codo_mejorado.png\
+│ │ └── clustering_mejorado.png\
+│ ├── resultados_modelos.csv\
+│ └── cluster_analysis.csv\
 │
 └── 📁 docs/
-└── informe_actividad_formativa.docx
+└── informe_actividad_formativa.docx\
 
 
 ## 📊 Metodología KDD Aplicada
